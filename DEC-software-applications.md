@@ -1,4 +1,5 @@
 ## General Applications
+- ALL-IN-1 (email)
 - DECMail
 - Expensive Typewriter
 - MessageQ
