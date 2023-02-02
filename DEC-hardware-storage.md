@@ -1,3 +1,8 @@
+## Exchangeable Multi-Platter HDDs
+### RP Series
+- RP02
+### RM Series
+
 ## Exchangeable Platter HDDs
 ### RK Series
 - RK03
