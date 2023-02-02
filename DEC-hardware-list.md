@@ -1,175 +1,16 @@
-## Digital Logic
-### System Modules
-- 1000-Series
-- 4000-Series
-- 6000-Series
-- 8000-Series
-### Flip-Chips
-- R107
-### Laboratory Modules
-
-## Input
-### Punched Card Readers
-- CR11
-### Paper Tape Readers
-- PC11
-### Keyboards
-- LK201
-- LK400
-
-## Output
-### Terminals
-#### VS Series Vector Graphics Terminals
-- VS60
-#### VT Series Video Terminals
-- VT05 (1970)
-- VT11
-- VT20
-- VT50 (1975)
-- VT52 (1975)
-- VT55
-- VT61
-- VT62
-- VT71
-- VT78 (1978) _DECstation_
-- VT100 (1978)
-- VT101
-- VT102
-- VT103
-- VT105
-- VT125
-- VT131
-- VT173
-- VT180 (1982)
-- VT220 (1983)
-- VT240
-- VT241
-- VT278
-- VT320 (1987)
-- VT330
-- VT340
-- VT420 (1990)
-- VT500 (1994)
-- VT510
-- VT520
-- VT525
-- VT1000 (1990)
-- VT1200 (1990)
-- VT1300 (1990)
-- VTX2000
-#### VR Series
-- VR201
-#### PDT Series Programmable Terminals
-- PDT-11/110
-- PDT-11/130
-- PDT-11/150
-#### PRO Series Terminals
-- PRO-325
-- PRO-350
-- PRO-380
-#### GT Series Vector Graphics Terminals
-- GT40 (1972)
-- GT42
-- GT44
-- GT62
-## Printers
-### Dot-Matrix Printers
-- DECwriter
-	- LA36 
-	- LA120
-	- LA30
-	- LA36
-### Line Printers
-- LP11
-## Speech Synthesisers
-- DECtalk
-- DECvoice
-
-## Storage
-### Exchangeable Multi-Platter HDDs
-#### RP Series
-- RP02
-#### RM Series
-
-### Exchangeable Platter HDDs
-#### RK Series
-- RK03
-- RK04
-- RK05 (1972)
-	- RK05E
-	- RK05F
-	- RK05J
-#### RL Series
-- RL01
-- RL02
-### Fixed Platter HDDs
-#### RA Series**
-- RA90
-- RA60
-- RA70
-- RA71
-- RA72
-- RA73
-- RA80
-- RA81
-- RA82
-- RA92
-#### RD Series
-### FDDs
-#### 8" FDDs
-- RX01
-- RX02
-### 5.25" FDDs
-- RX50
-- RX33
-### Tape Drives
-- TU10
-- TU20
-- TU30
-- TU45
-- TU81
-- TU-81 Plus
-- TA81
-#### DECtape
-- TU56
-### Magtape Controller
-- TM10
-
-## Communication
-- Star coupler
-### Serial Lines
-- DL11
-### Buses
-- VAXBI
-- Unibus (1969)
-- TURBOchannel
-- Synchronous Backplane Interconnect (SBI)
-- Q-bus (LSI-11 Bus)
-
-## Processors
-- KA10 (1968)
-- KS10 (1978)
-- KL10
-- KI10 1060
-- KI10 1070
-- KI10 1077
-- F11
-- J11
-
-## Systems
-### Programmed Data Processor (PDP)
-#### PDP-1 (1959-1969)
+## Programmed Data Processor (PDP)
+### PDP-1 (1959-1969)
 - PDP-1 (1959)
-#### PDP-2
-#### PDP-3 (1960)
-#### PDP-4 (1962)
+### PDP-2
+### PDP-3 (1960)
+### PDP-4 (1962)
 - PDP-4
-#### PDP-5 (1963)
-#### PDP-6 (1964)
-#### PDP-7 (1964)
+### PDP-5 (1963)
+### PDP-6 (1964)
+### PDP-7 (1964)
 - PDP-7
 - PDP-7A
-#### PDP-8 (1965
+### PDP-8 (1965
 - PDP-8 (1965)
 - PDP-8/E (1970)
 - PDP-8/S (1966)
@@ -178,11 +19,11 @@
 - PDP-8/F (1972)
 - PDP-8/M (1972)
 - PDP-8/A (1974)
-#### LINC-8 (1966)
-#### PDP-9 (1966)
+### LINC-8 (1966)
+### PDP-9 (1966)
 - PDP-9
 - PDP-9/L
-#### PDP-10 (1966)
+### PDP-10 (1966)
 - DECSYSTEM-20
 	- DECSYSTEM-2020
 	- DECSYSTEM-2040
@@ -190,7 +31,7 @@
 	- DECSYSTEM-2060
 	- DECSYSTEM-2065
 - Jupiter project (discontinued)
-#### PDP-11 (1970)
+### PDP-11 (1970)
 - PDP-11/20 (1970)
 - PDP-11/15 (1970)
 - PDP-11/45 (1972)
@@ -212,22 +53,22 @@
 - PDP-11/94 (1990)
 - PDP-11/03 (1975) (LSI-11/03)
 - PDP-11/23
-##### MicroPDP
+#### MicroPDP
 - PDP-11/23+ (MicroPDP-11/23)
 – MicroPDP-11/73
 - MicroPDP-11/53
 – MicroPDP-11/83
 - MicroPDP-11/93 (1990)
-##### Misc. Models
+#### Misc. PDP-11 Models
 - KXJ11
 - MINC-11
-##### Unreleased Models
+#### Unreleased PDP-11 Models
 - PDP-11/27
 - PDP-11/68
 - PDP-11/74
-#### PDP-12 (1969)
-#### PDP-14 (1969)
-#### PDP-15 (1970)
+### PDP-12 (1969)
+### PDP-14 (1969)
+### PDP-15 (1970)
 - PDP-15/10
 - PDP-15/20
 - PDP-15/30
@@ -235,9 +76,10 @@
 - PDP-15/40
 - PDP-15/50
 - PDP-15/76
-#### PDP-16 (1972)
-### VAX
-#### VAX-11
+### PDP-16 (1972)
+
+## VAX
+### VAX-11
 - VAX-11/780
 - VAX-11/750
 - VAX-11/751
@@ -248,7 +90,7 @@
 - VAX-11/787
 - VAX-11/788
 - VAX-11/725
-##### VAX 8000
+#### VAX 8000
 - VAX 8600
 - VAX 8650	
 - VAX 8x00
@@ -263,7 +105,7 @@
 	- VAX 8840
 - VAX 8974
 - VAX 8978
-#### MicroVAX
+### MicroVAX
 - MicroVAX I
 - MicroVAX II
 - Industrial VAX 630
@@ -291,7 +133,7 @@
 - MicroVAX 3600
 - MicroVAX 3800
 - MicroVAX 3900
-#### VAXserver
+### VAXserver
 - VAXserver 3000
 - VAXserver 3100
 - VAXserver 3300
@@ -317,7 +159,7 @@
 - VAXserver 9000 Model 320/Model 320VP
 - VAXserver 9000 Model 330/Model 330VP
 - VAXserver 9000 Model 340/Model 340VP
-#### VAXstation
+### VAXstation
 - VAXstation I
 - VAXstation II
 - VAXstation II/GPX
@@ -339,14 +181,14 @@
 - VAXstation 8000
 - VT1300
 - VXT 2000
-#### VAX 6000
+### VAX 6000
 - VAX 6000 Model 2x0 (also known as the VAX 62x0)
 - VAX 6000 Model 3x0 (also known as the VAX 63x0)
 - VAX 6333
 - VAX 6000 Model 4x0
 - VAX 6000 Model 5x0
 - VAX 6000 Model 6x0
-#### VAX 4000
+### VAX 4000
 - VAX 4000 Model 50
 - VAX 4000 Model 100
 - VAX 4000 Model 100A
@@ -363,7 +205,7 @@
 - VAX 4000 Model 600A
 - VAX 4000 Model 700A
 - VAX 4000 Model 705A
-#### VAX 9000
+### VAX 9000
 - VAX 9000 Model 110
 - VAX 9000 Model 210
 - VAX 9000 Model 210VP
@@ -372,7 +214,7 @@
 - VAX 9000 Model 420
 - VAX 9000 Model 430
 - VAX 9000 Model 440
-#### VAXft
+### VAXft
 - VAXft Model 310 (VAXft 3000 Model 310)
 - VAXft Model 110
 - VAXft Model 410
@@ -383,26 +225,30 @@
 - VAXft 310 Server
 - VAXft 410 Server
 - VAXft 610 Server
-#### VAX 7000
+### VAX 7000
 - VAX 7000 Model 600
 - VAX 7000 Model 700
 - VAX 7000 Model 800
-#### VAX 10000
+### VAX 10000
 - VAX 10000 Model 600
-### DECmate (1980)
+
+## DECmate (1980)
 - DECmate (1980)
 - DECmate II (1982)
 - DECmate III (1984)
 - DECmate III+ (1985)
-### DEC Professional (1982)
+
+## DEC Professional (1982)
 - PRO-325
 - PRO-350 (1982)
 - PRO-380
 - Professional Series PC-38N
-### Rainbow 100 (1982)
+
+## Rainbow 100 (1982)
 - PC-100A
 - PC-100B
-### DECserver (1985)
+
+## DECserver (1985)
 - DECserver 100
 - DECserver 200
 - DECserver 250
@@ -425,9 +271,11 @@
 - DECserver 732
 - DECserver ConX4 (2004)
 - DECserver ConX4P
-### VAXmate (1986)
+
+## VAXmate (1986)
 - VAXmate
-### DECsystem (1989)
+
+## DECsystem (1989)
 _identical to DECstation_
 - DECsystem 3100 (1989)
 - DECsystem 5000 Series
@@ -439,7 +287,8 @@ _identical to DECstation_
 - DECsystem 5800 Series
 - DECsystem 5900
 - DECsystem 5900/260
-### DECstation (1989)
+
+## DECstation (1989)
 - DECstation 3100 (1989)
 - DECstation 2100 (1989)
 ### Personal DECstation 5000 Series(1994)
@@ -474,9 +323,10 @@ _identical to DECstation_
 - DECstation 433T (80486-based)
 - DECstation 433W (80486-based)
 - DECstation 450dx2 (80486-based)
-### Alpha (1993)
-#### DECpc AXP 150 (1993)
-#### 2000 AXP (1994)
+
+## Alpha (1993)
+### DECpc AXP 150 (1993)
+### 2000 AXP (1994)
 - Model 300
 - Model 300L
 - Model 300X
@@ -488,15 +338,15 @@ _identical to DECstation_
 - Model 700
 - Model 800
 - Model 900
-#### 4000 AXP (1992-1994)
+### 4000 AXP (1992-1994)
 - Model 6x0
 - Model 7x0
-#### 7000 AXP (1994-1995)
+### 7000 AXP (1994-1995)
 - Model 6x0
 - Model 7x0
-#### 10000 AXP
+### 10000 AXP
 - Model 6x0
-#### AlphaServer (1994-2007)
+### AlphaServer (1994-2007)
 - Avanti Family
 	- 200 4/100
 	- 200 4/166
@@ -598,7 +448,7 @@ _identical to DECstation_
 	- ES47
 	- ES80
 	- GS1280
-#### AlphaStation (1994-2007)
+### AlphaStation (1994-2007)
 - Avanti Family
 	- 200 4/100
 	- 200 4/166
@@ -634,12 +484,14 @@ _identical to DECstation_
 	- DS15A
 	- DS25
 	- ES47
-### Multia (1994) (later Universal Desktop Box)
+
+## Multia (1994) (later Universal Desktop Box)
 - VX40 (alpha-based)
 - VX41 (alpha-based)
 - VX42 (alpha-based)
 - VX51 (pentium-based)
-### Digital HiNote (1994)
+
+## Digital HiNote (1994)
 - 433 (1994)
 - CS433 (1994)
 - CS450 (1994)
@@ -681,8 +533,9 @@ _identical to DECstation_
 - VP 715 (1998)
 - VP 735 (1998)
 - VP 765 (1998)
-### Digital Personal Workstation (1996)
-#### i-Series
+
+##l# Digital Personal Workstation (1996)
+### i-Series
 _pentium-based_
 - 180i (1996)
 - 200i (1996)
@@ -694,9 +547,10 @@ _pentium-based_
 - 266i+
 - 300i+
 - 333i+
-#### a-Series
+### a-Series
 _alpha-based_
 - 433a/433au
 - 500a/500au
 - 600a/600au
-### Itsy Pocket Computer
+
+## Itsy Pocket Computer
