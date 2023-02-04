@@ -51,12 +51,22 @@ ssh menu@tty.livingcomputers.org
 ```
 
 Available DEC systems include:
-- lc, a PDP-10 KS10 running the Incompatable Timesharing System (ITS) v. 1648
-- ka175, a SimH PDP-10 KA10 1050 running TOPS-10 v. 6.03a
-- kl2065, a SimH PDP-10 KL10 2065 running TOPS-10 v. 7.04
-- rosenkrantz, a VAX 7000-640 running OpenVMS v. 7.3
-- misspiggy, a PDP-11/70 running  Research UNIX v7
-- zippy, a VAX-11/780-5 running Researvh  UNIX v8
-- guildenstern, a simh MicroVAX 3900 running BSD 4.3
-- snake, a  PDP-11/84 running BSD 2.11
-- alphy, an  Alphastation running  OSF/1
+- **lc**, a PDP-10 KS10 running the Incompatable Timesharing System (ITS) v. 1648
+- **ka175**, a SimH PDP-10 KA10 1050 running TOPS-10 v. 6.03a
+- **kl2065**, a SimH PDP-10 KL10 2065 running TOPS-10 v. 7.04
+- **rosenkrantz**, a VAX 7000-640 running OpenVMS v. 7.3
+- **misspiggy**, a PDP-11/70 running  Research UNIX v7
+- **zippy**, a VAX-11/780-5 running Researvh  UNIX v8
+- **guildenstern**, a simh MicroVAX 3900 running BSD 4.3
+- **snake**, a  PDP-11/84 running BSD 2.11
+- **alphy**, an  Alphastation running  OSF/1
+
+## JavaScript DEC Emulators
+_JavaScript DEC emulators collected by Frederic Cambus at github.com/fcambus/jsemu_
+
+- [PDP-1 running the SpaceWar game](https://www.masswerk.at/spacewar/) and the [Minskytron demo](https://www.masswerk.at/minskytron/) - by Norbert Landsteiner
+- [PDP-8](https://programmer209.wordpress.com/2011/01/30/pdp-8-assembly-language-part-2/) and [PDP-11](https://programmer209.wordpress.com/2011/08/14/pdp-11-assembly-language-simulator/) simulators with assembly language interfaces (explanatory articles with full source, not live site) - by programmer209
+- [JavaScript PDP 11](https://skn.noip.me/pdp11/pdp11.html) - PDP-11/70 emulator with simulated front panel and a choice of oper+ating systems. By Paul Nankervis
+- [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator running UNIX Sixth Edition. By Julius Schmidt
+  - [with teletype](https://pavel-krivanek.github.io/pdp11/) - PDP-11 emulator with teletype interface
+- [pdp11-js](https://takahirox.github.io/pdp11-js/unixv6.html) - PDP-11 emulator with UNIX V6. By Takahiro Aoyagi ([Source](https://github.com/takahirox/pdp11-js))
