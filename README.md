@@ -3,25 +3,27 @@
 Digital Equipment Corporation (DEC) History Archive
 
 ## DEC  Hardware
-[Computers](DEC-hardware-list.md)
-[Processors & Logic](DEC-processors-and-logic-modules.md)
-[Input](DEC-hardware-input)
-[Outpuut](DEC-hardware-output.md)
-[Networking & Comms](DEC-hardware-comms.md)
-[Storage](DEC-hardware-storage.md)
+- [Computers](DEC-hardware-list.md)
+- [Processors & Logic](DEC-processors-and-logic-modules.md)
+- [Input](DEC-hardware-input)
+- [Outpuut](DEC-hardware-output.md)
+- [Networking & Comms](DEC-hardware-comms.md)
+- [Storage](DEC-hardware-storage.md)
 ## DEC Software
-[Operating Systems](DEC-operating-systems.md)
-[Programming Languages](DEC-programming-languages.md)
-[Applications](DEC-software-applications.md)
-[Terminal Character Sets](DEC-terminal-charsets.md)
+- [ Operating Systems](DEC-operating-systems.md)
+- [Programming Languages](DEC-programming-languages.md)
+- [Applications](DEC-software-applications.md)
+- [Terminal Character Sets](DEC-terminal-charsets.md)
 
 ## DEC IRL
-[Simulations](sims.md)
+- [Simulations](sims.md)
 [Projects](hardware-projects.md)
 [Museum Collections](mseum-collections.md)
+
 ## Bibliography
-[DEC Bibliography](books-and-articles.bib)
-[Relevant Links](links.md)
+- [DEC Bibliography](books-and-articles.bib)
+- [Relevant Links](links.md)
+- [YouTube Clips](youtube-clips)
 
 © I don't own any of this stuff nor do I pretend to. Copyright where it exists is  the product of the original owners and copyright holders. 
 
