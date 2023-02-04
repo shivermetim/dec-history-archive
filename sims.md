@@ -50,22 +50,13 @@ The [Living Computers Museum + Labs](https://www.livingcomputers.org/) in Seattl
 ssh menu@tty.livingcomputers.org
 ```
 
-a] multics             Multics MR12.7          Honeywell 6180
-[b] toad-2              TOPS-20 7(110131)-1     XKL TOAD-2
-[d] cdc6500             NOS 1.3                 DTCyber CDC-6500
-[e] lc                  ITS ver 1648            PDP-10 KS10
-[f] ka175               TOPS-10 6.03a           sim KA10 1050
-[g] kl2065              TOPS-10 7.04            sim KL10 2065
-[h] rosenkrantz         OpenVMS 7.3             VAX 7000-640
-[j] ibm4361             VM/SP5                  Hercules FlexCUB
-[z] bitzone             NetBSD BBS              AMD64
-
-[a] misspiggy           UNIX v7                 PDP-11/70
-[b] zippy               UNIX v8                 VAX-11/780-5
-[c] lcm3b2              UNIX SVR3.2.3           AT&T 3B2/1000-70
-[d] guildenstern        BSD 4.3                 simh MicroVAX 3900
-[e] snake               BSD 2.11                PDP-11/84
-[f] hkypux              HP/UX 10.20             HP9000/715
-[g] alphy               OSF/1                   Alphastation
-[h] three               SunOS 4.1.1             Sun-3/160
-[i] indy                IRIX 6.5                SGI Indy R5000
+Available DEC systems include:
+- lc, a PDP-10 KS10 running the Incompatable Timesharing System (ITS) v. 1648
+- ka175, a SimH PDP-10 KA10 1050 running TOPS-10 v. 6.03a
+- kl2065, a SimH PDP-10 KL10 2065 running TOPS-10 7.04
+- rosenkrantz, a VAX 7000-640 running OpenVMS 7.3
+- misspiggy, a PDP-11/70 running  Research UNIX v7
+- zippy, a VAX-11/780-5 running Researvh  UNIX v8
+- guildenstern, a simh MicroVAX 3900 running BSD 4.3
+- snake, a  PDP-11/84 running BSD 2.11
+] alphy, an  Alphastation running  OSF/1
