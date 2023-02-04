@@ -13,9 +13,6 @@ PDP-10
 PDP-11
 PDP-15
 
-MicroVAX I, VAXStation I
-MicroVAX II, VAXStation II
-MicroVAX 
 
 VAX 11/780
 VAX-11/730
