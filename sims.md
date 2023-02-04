@@ -6,7 +6,7 @@ The [SimH project](https://github.com/simh/simh) by former DEC employee Robert S
 ### PDP Simulators
 - PDP-1
 - PDP-4
-- PDP6
+- PDP-6
 - PDP-7
 - PDP-8
 - PDP-9
