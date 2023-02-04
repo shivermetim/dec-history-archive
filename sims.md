@@ -59,4 +59,4 @@ Available DEC systems include:
 - zippy, a VAX-11/780-5 running Researvh  UNIX v8
 - guildenstern, a simh MicroVAX 3900 running BSD 4.3
 - snake, a  PDP-11/84 running BSD 2.11
-] alphy, an  Alphastation running  OSF/1
+- alphy, an  Alphastation running  OSF/1
