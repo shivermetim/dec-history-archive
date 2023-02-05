@@ -35,7 +35,17 @@ The [SimH project](https://github.com/simh/simh) by former DEC employee Robert S
 - VAXstation 3100 M38
 - VAXstation 3100 M76
 - VAXstation 4000 VLC
-- VAXstation 
+- VAXstation 4000 M60
+- MicroVAX 3100 M80
+- InfoServer 1000
+
+### Network Hardware
+- Phase V DECnet connections on VAX Unibus and Qbus system
+- DPV11 for Qbus VAX system
+
+## Living Computers Museum + Labs
+The [Living Computers Museum + Labs](https://www.livingcomputers.org/) in Seattle WA, USA provides access to several systems in their collection via SSH, several of which are SimH emulators. SSH connection is available through a [web brower](https://ssh.livingcomputers.org:4443/) or through a terminal:
+
 ```bash
 ssh menu@tty.livingcomputers.org
 ```
