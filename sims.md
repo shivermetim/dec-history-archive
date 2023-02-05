@@ -25,7 +25,7 @@ The [SimH project](https://github.com/simh/simh) by former DEC employee Robert S
 - VAX 8600/8650
 - MicroVAX I & VAXstation I
 - MicroVAX II & VAXstation II & VAXstation II/GPX
-- rtVAX 1000 (or Industrial VAX 620)
+- rtVAX 1000 (or Industrial VAX 620)  
 - MicroVAX 2000 & VAXstation 2000
 - MicroVAX 3100 M10/M20
 - MicroVAX 3100 M10e/M20e
@@ -35,17 +35,7 @@ The [SimH project](https://github.com/simh/simh) by former DEC employee Robert S
 - VAXstation 3100 M38
 - VAXstation 3100 M76
 - VAXstation 4000 VLC
-- VAXstation 4000 M60
-- MicroVAX 3100 M80
-- InfoServer 1000
-
-### Network Hardware
-- Phase V DECnet connections on VAX Unibus and Qbus system
-- DPV11 for Qbus VAX system
-
-### Living Computers Museum + Labs
-The [Living Computers Museum + Labs](https://www.livingcomputers.org/) in Seattle WA, USA provides access to several systems in their collection via SSH, several of which are SimH emulators. SSH connection is available through a [web brower](https://ssh.livingcomputers.org:4443/) or through a terminal:
-
+- VAXstation 
 ```bash
 ssh menu@tty.livingcomputers.org
 ```
@@ -69,4 +59,4 @@ _JavaScript DEC emulators collected by Frederic Cambus at github.com/fcambus/jse
 - [JavaScript PDP 11](https://skn.noip.me/pdp11/pdp11.html) - PDP-11/70 emulator with simulated front panel and a choice of oper+ating systems. By Paul Nankervis
 - [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator running UNIX Sixth Edition. By Julius Schmidt
   - [with teletype](https://pavel-krivanek.github.io/pdp11/) - PDP-11 emulator with teletype interface
-- [pdp11-js](https://takahirox.github.io/pdp11-js/unixv6.html) - PDP-11 emulator with UNIX V6. By Takahiro Aoyagi ([Source](https://github.com/takahirox/pdp11-js))
+- [pdp11-js](https://takahirox.github.io/pdp11-js/unixv6.html)
