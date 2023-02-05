@@ -14,8 +14,8 @@ A [kit](https://obsolescence.wixsite.com/obsolescence/pidp-11) produced by Oscar
 The [DEC Mini](https://decmini.com/) is a project to replicate a VT-style terminal in a small form factor. There are instructions provided and files for 3D printing the case.
 
 ## FPGA Implementation of the PDP-1
-![FPGA1](https://github.com/hrvach/fpg1/raw/master/images/fpg1.gif)
 Written in Verilog, this [FPGA implementation](https://github.com/hrvach/fpg1) of the PDP-1 has been produced by Hrvoje Čavrak.
+![FPGA1](https://github.com/hrvach/fpg1/raw/master/images/fpg1.gif)
 
 ---
 

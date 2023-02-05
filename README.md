@@ -17,8 +17,8 @@ Digital Equipment Corporation (DEC) History Archive
 
 ## DEC IRL
 - [Simulations](sims.md)
-[Projects](hardware-projects.md)
-[Museum Collections](mseum-collections.md)
+- [Projects](hardware-projects.md)
+- [Museum Collections](mseum-collections.md)
 
 ## Bibliography
 - [DEC Bibliography](books-and-articles.bib)
