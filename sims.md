@@ -56,7 +56,7 @@ Available DEC systems include:
 - **kl2065**, a SimH PDP-10 KL10 2065 running TOPS-10 v. 7.04
 - **rosenkrantz**, a VAX 7000-640 running OpenVMS v. 7.3
 - **misspiggy**, a PDP-11/70 running  Research UNIX v7
-- **zippy**, a VAX-11/780-5 running Researvh  UNIX v8
+- **zippy**, a VAX-11/780-5 running Research UNIX v8
 - **guildenstern**, a simh MicroVAX 3900 running BSD 4.3
 - **snake**, a  PDP-11/84 running BSD 2.11
 - **alphy**, an  Alphastation running  OSF/1
@@ -70,3 +70,9 @@ _JavaScript DEC emulators collected by Frederic Cambus at github.com/fcambus/jse
 - [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator running UNIX Sixth Edition. By Julius Schmidt
   - [with teletype](https://pavel-krivanek.github.io/pdp11/) - PDP-11 emulator with teletype interface
 - [pdp11-js](https://takahirox.github.io/pdp11-js/unixv6.html)
+
+## PDP-8 Emulator
+Bernhard Baehrs [PDP-8 emulator](https://www.bernhard-baehr.de/pdp8e/pdp8e.html) is available for MacOS.
+
+## Card Punch
+[This card punch emulator](http://www.kloth.net/services/cardpunch.php) provides emulation for the DEC-029 input character set.
