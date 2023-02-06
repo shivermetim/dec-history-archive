@@ -1,4 +1,5 @@
 ## General Applications
+- AltaVista
 - ALL-IN-1 (email)
 - DECMail
 - Expensive Typewriter
@@ -6,9 +7,17 @@
 - Notes-11
 - ObjectBroker
 - Rdb
+- Secure External Access Link (SEAL)
 - TJ-2 (Type Justifying Program)
 - VAX Notes
 - WPS-8 (word processor)
+
+## GUIs
+### VMS
+- DECwindows
+- VMS Workstation Software (VWS)
+- DECwindows Motif
+  - New Desktop interface
 
 ## Software for DOS-11 Operating System
 - DOS-Monitor
