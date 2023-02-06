@@ -6,19 +6,21 @@ Digital Equipment Corporation (DEC) History Archive
 - [Computers](DEC-hardware-list.md)
 - [Processors & Logic](DEC-processors-and-logic-modules.md)
 - [Input](DEC-hardware-input)
-- [Outpuut](DEC-hardware-output.md)
+- [Output](DEC-hardware-output.md)
 - [Networking & Comms](DEC-hardware-comms.md)
 - [Storage](DEC-hardware-storage.md)
 ## DEC Software
-- [ Operating Systems](DEC-operating-systems.md)
+- [Operating Systems](DEC-operating-systems.md)
 - [Programming Languages](DEC-programming-languages.md)
 - [Applications](DEC-software-applications.md)
 - [Terminal Character Sets](DEC-terminal-charsets.md)
+- [Protocols](DEC-protocols.md)
 
 ## DEC IRL
 - [Simulations](sims.md)
 - [Projects](hardware-projects.md)
 - [Museum Collections](mseum-collections.md)
+- [DEC Personnel](DEC-personnel.md)
 
 ## Bibliography
 - [DEC Bibliography](books-and-articles.bib)
