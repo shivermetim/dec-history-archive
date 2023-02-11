@@ -5,7 +5,6 @@
 - KI10 1060
 - KI10 1070
 - KI10 1077
-- F11
 - PRISM (Parallel Reduced Instruction Set Machine) (1988) _cancelled_
 ### VAX
 - KA730
@@ -13,18 +12,32 @@
 - KA780
 - KA785
 ### Microprocessors
-- T-11 (PDP-11 ISA)
-- J-11 (PDP-11 ISA)
-- V-11 (VAX ISA)
-- MicroVAX 78032
-- MicroVAX 78132
-- NVAX
-- CVAX
+- MPP (1987)
+- Raven
+#### RISC
+- MicroPrism (1988)
 - StrongARM
-- Rigel (VAX ISA)
+  - SA-110
+  - SA-1100
+  - SA-1110
+  - SA-1500
+#### PDP-11 ISA
+- T-11 (1981)
+- J-11 (1983)
+- F-11 (1979)
+- LSI-11 (1976)
+#### VAX ISA
+- V-11 (1986)
+- MicroVAX (1985)
+  - MicroVAX 78032
+  - MicroVAX 78132
+- NVAX (1991)
+- CVAX (1987)
+- Rigel (1989)
   - REX520
+- Mariah (1990)
 #### Alpha
-- AXP 21064 (EV4)
+- AXP 21064 (EV4) (1992)
 - AXP 21064 (EV4S)
 - AXP 21064A (EV45)
 - AXP 21066 (LCA4)
