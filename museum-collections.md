@@ -17,6 +17,13 @@
 ### Museu do Computador, São Paulo
 ### Museu Capixaba do Computador, Vitória
 
+## Canada
+### Personal Computer Museum, Brantford ON
+### EMusée, Montreal
+### iMusée, Montreal
+### University of Saskatchewan Computer Museum, Saskatoon
+### York University Computer Museum (YUCoM)
+
 ## Croatia
 ### Peek&Poke, Rijeka
 
@@ -37,36 +44,92 @@
 ### Oldenburger Computer-Museum, Oldenburg
 ### Stuttgart Computer Museum, Stuttgart
 ### Computeum, Vilshofen
+### Computermuseum der Fachhochschule, Kiel
+### Deutsches Museum, Münich
+### Computerarchiv München, Münich
+### Computeum, Vilshofen
+### technikum29 living museum, Frankfurt
+
+## Greece
+### Hellenic IT Museum
+
+## Ireland
+### Computer and Communications Museum of Ireland,
+
+## Israel
+### The Israeli Personal Computer Museum, Haifa
+
+## Italy
+### Museo degli strumenti per il calcolo, Pisa
+### Fondazione Museo del Computer, Rome
+### Museo dell'Informatica Funzionante (MusIF), Palazzolo Acreide
+### Museo Interattivo di Archeologia Informatica, Cosenza
+### Piedmontese Museum of Informatics, Turin
+### Tecnologic@mente, Ivrea
 
 ## Japan
 ### Tokyo University of Science Museum of Science's "History of the Computer", Tokyo
 ### KCG Computer Museum, Kyoto
 ### IPSJ Computer Museum
 
+## Netherlands
+### HomeComputerMuseum, Helmond
+### Bonami SpelComputer Museum, Zwolle
+### Computer Museum Universiteit van Amsterdam, Amsterdam
+### Computermuseum Hack42, Arnhem
+
+## Poland
+### Muzeum Gry i Komputery Minionej Ery, Wroclow
+### Muzeum Historii Komputerów i Informatyki Siedziba główna, Katowice
+
+## Portugal
+### National Museum of Natural History and Science, Lisbon
+### Museu das Comunicações, Lisbon
+### Museu dos Computadores Inforap, Braga
+### Museu Faraday, Instituto Superior Técnico, Lisbon
+### Museu Virtual da Informática, Universidade do Minho, Braga
+
+## Slovakia
+### Computer Museum SAV, Bratislava
+## Slovenia
+### Computer Museum Društvo Računalniški Muzej, Ljubljana
 ## South Korea
 ### Nexon Computer Museum, Jeju, South Korea
 
-## Switzerland
-### Musée Bolo, Lausanne, Switzerland
+## Spain
+### García-Santesmases Computer Museum, Madrid
+### Museo de la Historia de la Computacion, Cáceres
+### Museum of Informatics, Polytechnic University of Valencia, Valencia
 
+## Switzerland
+### Musée Bolo, Lausanne
+
+## Ukraine
+### Muzey Prohramnoho Zabezpechennya Ta Komp'yuteriv, Kyiv
 ## United Kingdom
 ### Retro Computer Museum, Leicester
 ### National Museum of Computing, Bletchley Park, Milton Keynes
 ### Museum of Computing, Swindon, UK
 ### Computer Conservation Society, Teddington
 ### Centre for Computing History, Cambridge
+### Science Museum, London
+### Derby Computer Museum, Derby
+### Home Computer Museum, Hull
+### National Archive for the History of Computing, University of Manchester
+### Northwest Computer Museum, Leigh, Wigan
+### Time-Line Computer Archive, Wigan
 
 ## United States of America
-### American Computer & Robotics Museum, Bozeman MONTANA
-### Brazos Valley Computer Museum, Bryan TX, USA
-### Computer History Museum, Mountain View CA, USA
+### American Computer & Robotics Museum, Bozeman MT
+### Brazos Valley Computer Museum, Bryan TX
+### Computer History Museum, Mountain View CA
 ### Computer History Museum, San Jose CA
-
-### DigiBarn Computer Museum, Boulder Creek CA, USA
+### Computer Museum of America, Roswell GA
+### DigiBarn Computer Museum, Boulder Creek CA
 ### IT History Society, Tiburon, CA
-### Kennett Classic Computer Museum, Kennett Square PA, USA
-### Large Scale Systems Museum, Pittsburgh PA, USA
-### Living Computers: Museum + Labs, Seattle WA,USA
+### Kennett Classic Computer Museum, Kennett Square PA
+### Large Scale Systems Museum, Pittsburgh PA
+### Living Computers: Museum + Labs, Seattle WA
 - Alphastation ('**alphy**') running  OSF/1. Publically accessable via SSH.
 - PDP-10 KA10 (DECsystem-10)
 - PDP-10 KI10 (DECsystem-10)
@@ -84,7 +147,9 @@
 ### Museum of Art and Digital Entertainment, Oakland CA, USA
 ### Museum of Computer Culture, Austin TX, USA
 ### Museum of Technology at Middle Georgia State University, Macon, Georgia
+### National Museum of American History, Washinton DC
 ### Pennsylvania Computer Museum, Parkesburg PA, USA
+#### The Analog Computer Museum (Das Analogrechnermuseum)
 ### Rhode Island Computer Museum, North Kingstown RI, USA
 ### San Diego Computer Museum, San Diego CA
 ### System Source Computer Museum, Hunt Valley MD, USA
