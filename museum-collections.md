@@ -5,8 +5,40 @@
 
 ## Australia
 ### Australian Computer Museum Society, Sydney
+- RF11
+- PDP-8/A
+- VT100
+- LA100
+- TU77
+- Industrial-11
+- PDP-11/03
+- PDP-11/05
+- PDP-11/10
+- PDP-11/20
+- PDP-11/34
+- PDP-11/35
+- PDP-11/40
+- PDP-11/44
+- PDP-11/45
+- PDP-11/70
+- Minc-11
+- PDP-12
+- PDP-15
+- VAX-11/780
+- Datasystem 57
+- VAX-11/725
+- VAX-11/730
+- VAX-11/750
+- Micro-11
+- LSI-11
+- MicroVAX I
+- Rainbow
+- 3000
+- 4000
+- microVAX 3400
+- microVAX 3520
 ### Monash Museum of Computing History, Melbourne
-###  Computing and Information Systems Heritage Collection, University of Melbourne
+### Computing and Information Systems Heritage Collection, University of Melbourne
 ### Powerhouse Museum. Sydney
 
 ## Belgium
