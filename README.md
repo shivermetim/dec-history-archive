@@ -13,7 +13,7 @@ Digital Equipment Corporation (DEC) History Archive
 ## DEC  Hardware
 - [Computers](DEC-hardware-list.md)
 - [Processors & Logic](DEC-processors-and-logic-modules.md)
-- [Input](DEC-hardware-input)
+- [Input](DEC-hardware-input.md)
 - [Output](DEC-hardware-output.md)
 - [Networking & Comms](DEC-hardware-comms.md)
 - [Storage](DEC-hardware-storage.md)
@@ -34,7 +34,7 @@ Digital Equipment Corporation (DEC) History Archive
 ## Bibliography
 - [DEC Bibliography](books-and-articles.bib)
 - [Relevant Links](links.md)
-- [YouTube Clips](youtube-clips)
+- [YouTube Clips](youtube-clips.md)
 
 © I don't own any of this stuff nor do I pretend to. Copyright where it exists is  the product of the original owners and copyright holders. 
 
