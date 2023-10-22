@@ -1,3 +1,6 @@
+Storage Devices
+===============
+
 ## Exchangeable Multi-Platter HDDs
 ### RP Series
 - RP02
