@@ -1,10 +1,13 @@
+DEC Personnel
+=============
+
 | Name                 | Role/s         | Years | Contribution                            |
 |----------------------|----------------|-------|-----------------------------------------|
 | Gordon Bell          | VP Engineering |       | PDP-1, PDP-4, PDP-6, PDP-5, PDP-11, VAX |
 | Leonard Bosack       |                |       |                                         |
 | Mike Burrows         |                |       |                                         |
 | Luca Cardelli        |                |       |                                         |
-| Dave Cutler          |                |       |                                         |
+| Dave Cutler          |                |       | RSX-11, VAX/VMS, MicroVAX bytecode      |
 | Ed deCastro          |                |       |                                         |
 | Alan Eustace         |                |       |                                         |
 | Jim Gettys           |                |       |                                         |
