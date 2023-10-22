@@ -33,6 +33,7 @@ Digital Equipment Corporation (DEC) History Archive
 
 ## Bibliography
 - [DEC Bibliography](books-and-articles.bib)
+- [Bibliography from Schein's 'DEC Is Dead, Long Live DEC'](citations-long-live-dec.bib) (note that the .bib formatting was done by an LLM chatbot)
 - [Relevant Links](links.md)
 - [YouTube Clips](youtube-clips.md)
 
