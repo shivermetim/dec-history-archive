@@ -1,3 +1,6 @@
+DEC Software Applications
+=========================
+
 ## General Applications
 - AltaVista
 - ALL-IN-1 (email)
