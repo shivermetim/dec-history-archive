@@ -4,6 +4,7 @@ DEC Videos
 ## General & company History
 - Gordon Bell lecture ['Toward a History of Personal Workstations'](https://youtu.be/Z-4X6dkESEk?si=ICSXwuq3i8gxGAbb) for the Computer History Museum.
 - ['DEC and PCs: A Perspective'](https://youtu.be/rgb4VXYRv8U?si=azUIiXQiKFQXOJjL). A discussiom between Avram Miller, Barry James Folsom and Gordon Bell at the Computer History Museum in 1997.
+- A [video](https://youtu.be/sPU8-fkaRWc?si=Qn-ZU5RlphuvK9e-) produced by DEC and the Smithsonian Museum circa 1989, regarding DEC's history, featuring Ken Olsen.
 
 ## Interviews for Employees
 - [Dave Cutler](https://youtu.be/xi1Lq79mLeE?si=Uzgid5QVd2GaWuWF) interviewed by David Plummer (Microsoft).
