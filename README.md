@@ -29,6 +29,7 @@ Digital Equipment Corporation (DEC) History Archive
 - [Projects](hardware-projects.md)
 - [Museum Collections](museum-collections.md)
 - [DEC Personnel](DEC-personnel.md)
+- [DEC Locations](DEC-locations.md)
 
 ## Bibliography
 - [DEC Bibliography](books-and-articles.bib)
@@ -39,4 +40,4 @@ Digital Equipment Corporation (DEC) History Archive
 
 This collection of Markdown files  is first and foremost a collection for my own interest in the history of DEC. I am not ready for other collaborators should they exist, but if anyone has as obscure an interest as I do, please get in contact. 
 
-Please note I am not a programmer; I have no knowledge of programming or electronic engineering. Have mercy on me.
+Please note I am not a programmer; I have no knowledge of programming or electronic engineering.
