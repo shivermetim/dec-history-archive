@@ -1,3 +1,6 @@
+Hardware Output Devices
+=======================
+
 ## Terminals
 ### VS Series Vector Graphics Terminals
 - VS60
