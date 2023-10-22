@@ -1,3 +1,6 @@
+DEC Processors & Logic Modules
+==============================
+
 ## Processors
 - KA10 (1968)
 - KS10 (1978)
