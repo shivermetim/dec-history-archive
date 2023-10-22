@@ -557,3 +557,126 @@ _alpha-based_
 - 600a/600au
 
 ## Itsy Pocket Computer
+
+## Other Intel/x86-Based PCs (486, Pentium, etc.)
+### Celebris
+- Celebris 4100
+- Celebris 466
+- Celebris 560
+- Celebris 575
+- Celebris 590
+- Celebris Alpha XL 233
+- Celebris Alpha XL 266
+- Celebris Alpha XL 300
+- Celebris Alpha XL 366
+- Celebris FP 590
+- Celebris FX 5133
+- Celebris FX 5166
+- Celebris FX 5200
+- Celebris FX 5200M
+- Celebris FX-2 5166
+- Celebris FX-2 5166M
+- Celebris FX-2 5200M
+- Celebris GL 5100
+- Celebris GL 5100ST
+- Celebris GL 5120
+- Celebris GL 5120ST
+- Celebris GL 5133
+- Celebris GL 5133ST
+- Celebris GL 5150ST
+- Celebris GL 5166ST
+- Celebris GL 590
+- Celebris GL 6180
+- Celebris GL 6180LP
+- Celebris GL 6180ST
+- Celebris GL 6200
+- Celebris GL 6200I2
+- Celebris GL 6200LP
+- Celebris GL 6200ST
+- Celebris GL-2 6233
+- Celebris GL-2 6266
+- Celebris XL 5100
+- Celebris XL 5100DP
+- Celebris XL 5120
+- Celebris XL 5133
+- Celebris XL 5150
+- Celebris XL 5166
+- Celebris XL 5166DP
+- Celebris XL 590
+- Celebris XL 590DP
+- Celebris XL 6150
+- Celebris XL 6180
+- Celebris XL 6200
+### Prioris
+- Prioris HX 5133
+- Prioris HX 5133DP
+- Prioris HX 5166
+- Prioris HX 5166DP
+- Prioris HX 590
+- Prioris HX 590DP
+- Prioris HX 6200
+- Prioris HX 6200MP
+- Prioris HX 6266
+- Prioris LX Server 5120
+- Prioris LX Server 5150
+- Prioris LX Server 5200
+- Prioris LX Server 575
+- Prioris LX Server 590
+- Prioris MTE 4100
+- Prioris MTE 466d2
+- Prioris MX 6200
+- Prioris MX 6200MP
+- Prioris MX 6266
+- Prioris XL 6200
+- Prioris XL Server 466
+- Prioris XL Server 5100
+- Prioris XL Server 5100DP
+- Prioris XL Server 5133
+- Prioris XL Server 5133DP
+- Prioris XL Server 5166/DP
+- Prioris XL Server 5200/DP
+- Prioris XL Server 560
+- Prioris XL Server 566
+- Prioris XL Server 575
+- Prioris XL Server 590
+- Prioris XL Server 590DP
+- Prioris XLe 6180
+- Prioris ZX Server 5133MP
+- Prioris ZX Server 5133MP/2
+- Prioris ZX Server 5133MP/4
+- Prioris ZX Server 5166MP
+- Prioris ZX Server 5166MP/2
+- Prioris ZX Server 5166MP/4
+- Prioris ZX Server 6166MP
+- Prioris ZX Server 6166MP/2
+- Prioris ZX Server 6166MP/4
+- Prioris ZX Server 6200MP
+- Prioris ZX Server 6200MP/2
+- Prioris ZX Server 6200MP/4
+### Venturis
+- Venturis 4100
+- Venturis 433sx
+- Venturis 450s2
+- Venturis 466
+- Venturis 5100
+- Venturis 5120
+- Venturis 5133
+- Venturis 5150
+- Venturis 5166
+- Venturis 560
+- Venturis 575
+- Venturis 590
+- Venturis FX 5100/5100s
+- Venturis FX 5120/5120s
+- Venturis FX 5133/5133s
+- Venturis FX 5133sm
+- Venturis FX 5150/5150s
+- Venturis FX 5166/5166s
+- Venturis FX 5166sm
+- Venturis FX 5200
+- Venturis FX-2 5166
+- Venturis FX-2 5166M
+- Venturis FX-2 5200M
+- Venturis FX-2 6233K ST
+- Venturis GL 6180
+- Venturis GL 6200
