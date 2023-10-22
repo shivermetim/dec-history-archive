@@ -537,7 +537,7 @@ _identical to DECstation_
 - VP 735 (1998)
 - VP 765 (1998)
 
-##l# Digital Personal Workstation (1996)
+## Digital Personal Workstation (1996)
 ### i-Series
 _pentium-based_
 - 180i (1996)
