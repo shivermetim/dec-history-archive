@@ -65,6 +65,15 @@ Hardware Output Devices
 	- LA36
 ### Line Printers
 - LP11
+### Laser Printers
+- DEClaser 1100
+- DEClaser 1152
+- DEClaser 2100
+- DEClaser 2100+
+- DEClaser 2200
+- DEClaser 3200
+- DEClaser 3500
+- DEClaser 5100
 
 ## Speech Synthesisers
 - DECtalk
