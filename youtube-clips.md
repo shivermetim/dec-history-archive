@@ -23,6 +23,7 @@ DEC Videos
 
 ## Hardware
 ### PDP
+- Technical [teardown](https://youtu.be/3YK2nhc_kUw?si=i2IigZlfym-932qg) of PDP-11/04 and PDP-11/34 by bertoid.
 
 ### VAX
 
