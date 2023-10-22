@@ -1,3 +1,6 @@
+Hardware Input Devices
+======================
+
 ## Punched Card Readers
 - CR11
 
