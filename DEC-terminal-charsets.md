@@ -1,4 +1,6 @@
-# Terminal Character Sets
+Terminal Character Sets
+=======================
+
 - 7-bit DEC Cyrillic (KOI-7)
 - 7-bit DEC Greek
 - 7-bit DEC Hebrew
