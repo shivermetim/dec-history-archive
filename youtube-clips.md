@@ -5,7 +5,7 @@ DEC Videos
 - Gordon Bell lecture ['Toward a History of Personal Workstations'](https://youtu.be/Z-4X6dkESEk?si=ICSXwuq3i8gxGAbb) for the Computer History Museum.
 
 ## Interviews for Employees
-- [Dave Cutler interviewed by David Plummer](https://youtu.be/xi1Lq79mLeE?si=Uzgid5QVd2GaWuWF)
+- [Dave Cutler](https://youtu.be/xi1Lq79mLeE?si=Uzgid5QVd2GaWuWF) interviewed by David Plummer (Microsoft).
     - Begins with David Cutler's work at DEC on RSX-11 and VAX/VMS, but majority of the interview covers his work with Microsoft on Windows NT
 - For the Computer History Museum's Oral history Project
     - [Part 1](https://youtu.be/29RkHH-psrY?si=vBpthT0L7RLlh-9X)
