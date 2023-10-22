@@ -16,7 +16,7 @@ DEC Videos
     - [Part 1](https://youtu.be/SXt3-iZpQQc?si=Vcija8drHo-1o6xl)
     - [Part 2](https://youtu.be/uK9yGNuGWKE?si=ihfsiwHTX45YfM67
 - [Isaac 'Ike' Nassi](https://youtu.be/4inddaqL2ZM?si=pOTAw4pMhIE_pDor) for the Computer History Museum's Oral History Project.
-
+- Interview with [Bruce Ryan](https://youtu.be/g5Hk8MxzK-Q?si=ETS-gC1Aj7sbh1cZ) by the Computer & Communications Museum of Ireland in Galway.
 
 ## Advertisements and DEC-Produced Material
 - According to the uploader, [this advertisement](https://youtu.be/2bbYlfwCUNQ?si=n869Mh8Kecy8ztlR) was aired im 1996.
@@ -24,6 +24,7 @@ DEC Videos
 ## Hardware
 ### PDP
 - Technical [teardown](https://youtu.be/3YK2nhc_kUw?si=i2IigZlfym-932qg) of PDP-11/04 and PDP-11/34 by bertoid.
+- [PDP-11/70](https://youtu.be/mrvuLFTRlVA?si=B79R-1R6TMX432ss) at the Wigton Museum.
 
 ### VAX
 
