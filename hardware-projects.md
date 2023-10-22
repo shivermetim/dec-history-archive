@@ -1,3 +1,6 @@
+Hardware Kits, Replicas & Projects
+==================================
+
 ## PiDP-8
 ![PiDP-8](https://static.wixstatic.com/media/ce503a_8b9b316b11864c6f9e6eb43de837cd01.jpg/v1/fill/w_388,h_259,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ce503a_8b9b316b11864c6f9e6eb43de837cd01.jpg)
 
