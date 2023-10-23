@@ -30,6 +30,7 @@ Digital Equipment Corporation (DEC) History Archive
 - [Museum Collections](museum-collections.md)
 - [DEC Personnel](DEC-personnel.md)
 - [DEC Locations](DEC-locations.md)
+- [DEC Organisationa](DEC-orgs.md)
 
 ## Bibliography
 - [DEC Bibliography](books-and-articles.bib)
