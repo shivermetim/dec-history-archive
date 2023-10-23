@@ -6,11 +6,14 @@ DEC Locations
 - Hedquarters
     - 111 Powdermill Road, Maynard, MA
     - a former civil war wool mill
-- Systems Research Centre
+- Systems Research Centre (SRC)
     - 130 Lytton Ave, Palo Alto, CA
-- Puerto Rico (?San Germán)
-- 110 Spit Brook Rd, Nashua, NH
-- Westminster, MA
+- Puerto Rico 
+    - ?San Germán
+- Nashua, New Hampshire
+    - 110 Spit Brook Rd, Nashua, NH
+- Westminster, Massachusetts 
+- Reading, Massachusetts
 
 ### Factories
 - Semiconductor plant
