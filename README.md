@@ -11,12 +11,19 @@ Digital Equipment Corporation (DEC) History Archive
 ```
 
 ## DEC  Hardware
-- [Computers](DEC-hardware-list.md)
+- Computers
+  - [PDP Systems](DEC-hardware-PDP.md)
+  - [VAX Systems](DEC-hardware-VAX.md)
+  - [Alpha Systems](DEC-hardware-AXP.md)
+  - [MIPS-Based](DEC-hardware-MIPS.md)
+  - [Inte-Based Microcomputers](DEC-hardware-intel.md)
+  - [Other Microcomputers](DEC-hardware-other-micro.md)
 - [Processors & Logic](DEC-processors-and-logic-modules.md)
 - [Input](DEC-hardware-input.md)
 - [Output](DEC-hardware-output.md)
 - [Networking & Comms](DEC-hardware-comms.md)
 - [Storage](DEC-hardware-storage.md)
+
 ## DEC Software
 - [Operating Systems](DEC-operating-systems.md)
 - [Programming Languages](DEC-programming-languages.md)
