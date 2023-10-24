@@ -16,7 +16,7 @@ Digital Equipment Corporation (DEC) History Archive
   - [VAX Systems](DEC-hardware-VAX.md)
   - [Alpha Systems](DEC-hardware-AXP.md)
   - [MIPS-Based](DEC-hardware-MIPS.md)
-  - [Inte-Based Microcomputers](DEC-hardware-intel.md)
+  - [Intel-Based Microcomputers](DEC-hardware-intel.md)
   - [Other Microcomputers](DEC-hardware-other-micro.md)
 - [Processors & Logic](DEC-processors-and-logic-modules.md)
 - [Input](DEC-hardware-input.md)
