@@ -327,6 +327,9 @@ _identical to DECstation_
 - DECstation 433W (80486-based)
 - DECstation 450dx2 (80486-based)
 
+## VK Series
+- VK100
+
 ## Alpha (1993)
 ### DECpc AXP 150 (1993)
 ### 2000 AXP (1994)
