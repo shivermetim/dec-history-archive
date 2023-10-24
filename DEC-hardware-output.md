@@ -6,8 +6,10 @@ Hardware Output Devices
 - VS60
 ### VT Series Video Terminals
 - VT05 (1970)
-- VT11
+- VT11 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/graphics/VT11/)
+- VT15 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/graphics/VT15/)
 - VT20
+- VT48 (1976) [[Bitsavers]](http://www.bitsavers.org/pdf/dec/graphics/VT48/)
 - VT50 (1975)
 - VT52 (1975)
 - VT55
@@ -24,7 +26,7 @@ Hardware Output Devices
 - VT131
 - VT173
 - VT180 (1982)
-- VT220 (1983)
+- VT220 (1983) [[Bitsavers]](http://www.bitsavers.org/pdf/dec/brochures/DEC-VT220-Terminal.pdf)
 - VT240
 - VT241
 - VT278
@@ -41,7 +43,12 @@ Hardware Output Devices
 - VT1300 (1990)
 - VTX2000
 ### VR Series
+- VR14 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/graphics/VR14/)
+- VR20 
 - VR201
+### VSV Series
+- VSV11 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/graphics/VSV11/)
+- VSV21 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/graphics/VSV21/)
 ### PDT Series Programmable Terminals
 - PDT-11/110
 - PDT-11/130
@@ -53,16 +60,35 @@ Hardware Output Devices
 ### GT Series Vector Graphics Terminals
 - GT40 (1972)
 - GT42
-- GT44
+- GT44 (1973)
 - GT62
 
 ## Printers
 ### Dot-Matrix Printers
+- LA36 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/terminal/la36/)
+- LA210 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/terminal/la210/)
 - DECwriter
-	- LA36 
-	- LA120
-	- LA30
-	- LA36
+ 	- LA30 (1970) [[Bitsavers]](http://www.bitsavers.org/pdf/dec/terminal/la30/)
+  		- LA30A (1972)
+    	- LA30-E (1972)
+     	- LA30-P
+- DECwriter II
+	- LA120 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/terminal/la120/)
+- DECprinter I
+ 	- LA180 (1976)
+- DECwriter III
+	- LS120 (1977)
+- DECprinter III
+	- LA120-RA (1978)
+ 	- LA120-DA (1978)
+  	- LA120-RB (1978)
+- DECwriter IV
+ 	- LA34 (1978) [[Bitsavers]]http://www.bitsavers.org/pdf/dec/terminal/la34/)
+  	- LA38 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/terminal/la38/)
+- Letterwriter 100
+	- LA100 [[Bitsavers]](http://www.bitsavers.org/pdf/dec/terminal/la100/)
+- DECwriter Correspondent
+	- LA12
 ### Line Printers
 - LP11
 ### Laser Printers
